@@ -9,5 +9,6 @@ public class TestGit {
         System.out.println("hello");
         System.out.println("变色");
         System.out.println("hot-fix");
+        System.out.println("push");
     }
 }
